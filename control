@@ -1,4 +1,4 @@
-Package: org.thebigboss.wificallingfs
+Package: com.ps.wificallingfs
 Name: Wi-Fi Calling Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0), gsc.telephony
 Version: 0.0.1
